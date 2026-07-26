@@ -1,0 +1,38 @@
+export const protocols = [
+  {
+    id: 1,
+    name: "Bitflow",
+    category: "Bitcoin DEX",
+    apy: "8.4%",
+    tvl: "$42.8M",
+    status: "Live",
+    color: "orange",
+  },
+  {
+    id: 2,
+    name: "Zest",
+    category: "Bitcoin Lending",
+    apy: "6.7%",
+    tvl: "$15.2M",
+    status: "Live",
+    color: "green",
+  },
+  {
+    id: 3,
+    name: "Hermetica",
+    category: "Synthetic Dollar",
+    apy: "12.1%",
+    tvl: "$8.6M",
+    status: "Coming Soon",
+    color: "purple",
+  },
+  {
+    id: 4,
+    name: "StackingDAO",
+    category: "Liquid Stacking",
+    apy: "5.3%",
+    tvl: "$23.4M",
+    status: "Coming Soon",
+    color: "blue",
+  },
+];
