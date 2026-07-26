@@ -1,5 +1,7 @@
 # StackYields
 
+![StackYields Dashboard](./public/screenshot.png)
+
 **The discovery layer for Stacks-native stacking and sBTC yield opportunities.**
 
 StackYields is an open-source public-good project that helps users discover, compare, and monitor yield opportunities across the Stacks ecosystem through a single, unified interface.
